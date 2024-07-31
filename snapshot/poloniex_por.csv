@@ -1,0 +1,8 @@
+﻿coin,snapshot height,balance
+TRX(ALL),-,0.00
+TRX,123,0.00
+
+coin,address,snapshot height,balance,message,signature
+TRX,TSzSgxRisS5VBXXDcAezTDvnPGi9CbsXvJ,123,0.00,poloniex,111111111111111
+TRX,TUgSgCQL6pMSy9zByn4sgxqrJa95sZExBG,123,0.00,poloniex,222222222222222
+TRX,TWhDfwC8QE6pQyiYy248dNor3uphPEw5M2,123,0.00,poloniex,333333333333333
