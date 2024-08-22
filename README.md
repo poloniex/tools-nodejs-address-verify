@@ -2,7 +2,7 @@
 
 ## Background
 
-Poloniex launches [Proof of Reserves (PoR)]() to improve the security and transparency of user's assets. These tools will allow
+Poloniex launches [Proof of Reserves (PoR)](https://poloniex.com/topic/security/proof-of-reserves) to improve the security and transparency of user's assets. These tools will allow
 you to independently audit Poloniex's Proof of Reserves, verify all Poloniex's reserves addresses known liabilities to
 users, in order to confirm the solvency of Poloniex.
 
