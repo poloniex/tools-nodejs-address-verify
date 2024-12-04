@@ -8,6 +8,9 @@ export const DETAIL_KEY_MAPPING = {
   ETH: 'ETH',
   TRX: 'TRX',
   BETH: 'ETH',
+  SOL: 'SOL',
+  XRP: 'XRP',
+  XLM: 'XLM',
   'HT-ETH': 'ETH',
   'ETH-Arbitrum': 'ETH',
   'ETH-Optimism': 'ETH',
@@ -25,5 +28,6 @@ export const DETAIL_KEY_MAPPING = {
   'USDT-aEthUSDT': 'ETH',
   'HTX-TRC20': 'TRX',
   'USDT-Omni': 'BTC',
-  'aETH': 'ETH'
+  'aETH': 'ETH',
+  'jUSDT-TRC20': 'TRX'
 }
