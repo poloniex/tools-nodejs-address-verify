@@ -16,6 +16,7 @@ export const DETAIL_KEY_MAPPING = {
   ETC: 'ETC',
   LTC: 'LTC',
   BCH: 'BCH',
+  BNB: 'BSC',
   'HT-ETH': 'ETH',
   'ETH-Arbitrum': 'ETH',
   'ETH-Optimism': 'ETH',
@@ -36,5 +37,7 @@ export const DETAIL_KEY_MAPPING = {
   'aETH': 'ETH',
   'SHIB-ERC20': 'ETH',
   'DOGE-TRC20': 'TRX',
+  'BTC-ERC20': 'ETH',
+  'BTC-BEP20': 'BSC',
   'jUSDT-TRC20': 'TRX'
 }
