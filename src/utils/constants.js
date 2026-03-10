@@ -39,5 +39,7 @@ export const DETAIL_KEY_MAPPING = {
   'DOGE-TRC20': 'TRX',
   'BTC-ERC20': 'ETH',
   'BTC-BEP20': 'BSC',
-  'jUSDT-TRC20': 'TRX'
+  'jUSDT-TRC20': 'TRX',
+  'steakETH': 'ETH',
+  'gtWETH': 'ETH'
 }
