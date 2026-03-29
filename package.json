@@ -28,7 +28,7 @@
     "@jest/globals": "^29.3.1",
     "jest": "^29.3.1",
     "pkg": "^5.8.0",
-    "rollup": "^3.6.0",
+    "rollup": "^3.29.5",
     "rollup-jest": "^3.1.0"
   },
   "homepage": "https://github.com/poloniex/tools-nodejs-address-verify.git",
