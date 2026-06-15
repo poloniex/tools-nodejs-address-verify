@@ -43,5 +43,6 @@ export const DETAIL_KEY_MAPPING = {
   'steakETH': 'ETH',
   'gtWETH': 'ETH',
   'USDT-spUSDT': 'ETH',
+  'USDT-SUSDS': 'ETH',
   'sTRX': 'TRX'
 }
