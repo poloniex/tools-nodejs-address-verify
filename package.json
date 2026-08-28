@@ -18,7 +18,7 @@
     "commander": "^9.4.1",
     "csv-parse": "^5.3.3",
     "ethereumjs-util": "^7.1.5",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "tree-console": "^1.2.1",
     "tronweb": "^4.4.0",
     "tweetnacl": "^1.0.3",
