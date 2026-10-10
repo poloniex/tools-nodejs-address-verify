@@ -45,5 +45,6 @@ export const DETAIL_KEY_MAPPING = {
   'unstETH': 'ETH',
   'USDT-spUSDT': 'ETH',
   'USDT-SUSDS': 'ETH',
+  'USDT-BEP20': 'BSC',
   'sTRX': 'TRX'
 }
